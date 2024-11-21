@@ -21,6 +21,11 @@ class CheckoutController extends Controller
         //
     }
 
+    public function etapaPagamento()
+    {
+
+    }
+
     public function etapaConfirmacao()
     {
         //
