@@ -12,7 +12,17 @@ class DashboardController extends Controller
         //
     }
 
+    public function calcularVendasSemana()
+    {
+        //
+    }
+
     public function calcularVendasMes()
+    {
+        //
+    }
+
+    public function calcularVendasAno()
     {
         //
     }
