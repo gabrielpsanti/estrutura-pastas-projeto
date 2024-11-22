@@ -11,12 +11,12 @@ class CheckoutController extends Controller
         //
     }
 
-    public function removeFromCart()
+    public function removerDoCarrinho()
     {
         //
     }
 
-    public function removeAllFromCart()
+    public function removerTudoDoCarrinho()
     {
         //
     }

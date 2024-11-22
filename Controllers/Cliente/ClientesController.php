@@ -22,12 +22,12 @@ class ClientesController extends Controller
         //
     }
 
-    public function editPassword()
+    public function editarSenha()
     {
         //
     }
 
-    public function updatePassword()
+    public function atualizarSenha()
     {
         //
     }
